@@ -2,9 +2,16 @@
 
 ## Ingénieur Immobilier • Data • Intelligence Artificielle • Python • Power BI
 
-Je développe des outils permettant aux professionnels de l'immobilier de gagner du temps grâce à la data, à l'automatisation et à l'intelligence artificielle.
+J’aide les professionnels de l’immobilier à exploiter la Data et l’Intelligence Artificielle pour automatiser leurs analyses, accélérer leurs workflows et améliorer leurs décisions.
 
 Mon objectif est de transformer des tâches complexes et répétitives en solutions simples, fiables et reproductibles.
+
+
+Pourquoi ce GitHub ?
+
+Je partage ici les outils, méthodes et expérimentations que je développe autour de l'immobilier, de la data et de l'intelligence artificielle.
+
+L'objectif n'est pas uniquement de coder, mais de concevoir des solutions concrètes répondant à des problématiques rencontrées par les professionnels du secteur.
 
 ---
 
