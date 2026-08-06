@@ -27,4 +27,5 @@ Prochaine étape
 
 Intégrer les signaux PermisAPI (+30) et DVF (+20) pour atteindre le scoring composite complet (0-90 points).
 
-🔗 Démo (accès protégé par mot de passe)
+🔗 Démo (accès protégé par mot de passe) 
+https://prospects-tracker-jac-digital.vercel.app/
