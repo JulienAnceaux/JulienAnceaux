@@ -20,3 +20,5 @@ Limite connue
 Une nature cadastrale ne prouve pas la constructibilité actuelle — le PLU/PLUi, les servitudes et les contraintes opérationnelles doivent être vérifiés manuellement avant toute prospection.
 
 🔗 Démo (accès protégé par mot de passe)
+https://parcelles-tracker.vercel.app/
+
