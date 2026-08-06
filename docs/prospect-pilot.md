@@ -12,3 +12,4 @@ Stack technique
 Node.js (fonctions serverless), Google Places API, Vercel.
 
 🔗 Démo (accès protégé par mot de passe)
+https://prospect-pilot-tau.vercel.app/
