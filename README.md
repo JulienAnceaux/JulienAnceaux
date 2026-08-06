@@ -43,6 +43,26 @@ Ce GitHub rassemble mes projets autour de trois domaines :
 
 # 🏗️ Projets en cours
 
+🚧 Parcelles Tracker
+
+Prospection foncière amont : identifie les terrains nus détenus par des sociétés privées (SCI, SCCV) à partir du cadastre ouvert. Détails →
+
+🚧 Prospects Tracker
+
+Détecte les divisions cadastrales récentes, signal amont d'une vente à venir — validé sur un cas réel (53 prospects qualifiés). Détails →
+
+🚧 Prospect Pilot
+
+Recherche et enrichissement de prospects via l'API Google Places. Détails →
+
+🚧 Real Estate Analytics Platform
+
+Plateforme d'analyse immobilière intégrant Python, SQL et Power BI.
+
+🚧 Investment Dashboard
+
+Dashboard Power BI dédié au pilotage d'investissements immobiliers.
+
 🚧 Local Business Intelligence
 
 Pipeline Python permettant de rechercher, enrichir et qualifier automatiquement des entreprises locales.
