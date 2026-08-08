@@ -65,7 +65,7 @@ Dashboard Power BI dédié au pilotage d'investissements immobiliers.
 
 🚧 Advanced Investment Dashboard
 
-Dashboard Power BI dédié au pilotage d'investissements immobiliers basé sur du LLM de projets antérieures et  des études de marché d'actualité.
+Dashboard Power BI dédié au pilotage d'investissements immobiliers basé sur du LLM de projets antérieures et  des études de marché d'actualités.
 
 🚧 Optimization Office Portfolio
 
