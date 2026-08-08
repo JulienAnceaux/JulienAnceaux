@@ -63,6 +63,10 @@ Plateforme d'analyse immobilière intégrant Python, SQL et Power BI.
 
 Dashboard Power BI dédié au pilotage d'investissements immobiliers.
 
+🚧 Optimization Office Portfolio
+
+Outil de pilotage et reporting d'un portefeuille bureau intégrant Power BI, Powerpoint, Power Apps.
+
 🚧 Local Business Intelligence
 
 Pipeline Python permettant de rechercher, enrichir et qualifier automatiquement des entreprises locales.
