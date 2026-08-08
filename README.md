@@ -59,9 +59,13 @@ Recherche et enrichissement de prospects via l'API Google Places. [Détails →]
 
 Plateforme d'analyse immobilière intégrant Python, SQL et Power BI.
 
-🚧 Investment Dashboard
+🚧 Simple Investment Dashboard
 
 Dashboard Power BI dédié au pilotage d'investissements immobiliers.
+
+🚧 Advanced Investment Dashboard
+
+Dashboard Power BI dédié au pilotage d'investissements immobiliers basé sur du LLM de projets antérieures et  des études de marché d'actualité.
 
 🚧 Optimization Office Portfolio
 
