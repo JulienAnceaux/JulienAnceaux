@@ -43,6 +43,10 @@ Ce GitHub rassemble mes projets autour de trois domaines :
 
 # 🏗️ Projets en cours
 
+🚧 Office Valuation Engine
+
+Moteur de valorisation DCF pour actifs de bureaux (Power BI / DAX) : sliders interactifs, vacance variable par année, code couleur dynamique. [Détails →](./docs/office-valuation-engine.md)
+
 🚧 Parcelles Tracker
 
 Prospection foncière amont : identifie les terrains nus détenus par des sociétés privées (SCI, SCCV) à partir du cadastre ouvert. [Détails →](./docs/parcelles-tracker.md)
