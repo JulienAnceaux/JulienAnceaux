@@ -19,5 +19,12 @@ Limite connue
 
 Jeu de données de démonstration entièrement fictif — le modèle ne remplace pas une due diligence complète (fiscalité, garanties de passif, état locatif détaillé, etc.).
 
-🔗 Démo (captures d'écran statiques)
-https://github.com/JulienAnceaux/office-valuation-engine/blob/main/screenshots/dashboard-v2.jpg
+Aperçu
+
+![Dashboard exécutif](screenshots/dashboard-v2.jpg)
+
+4 indicateurs clés (VAN, TRI, année de retournement, valeur vénale), avec code couleur dynamique — recalculé automatiquement selon les hypothèses sélectionnées, pas figé sur un seuil. Sliders regroupés par thème et trajectoire de VAN cumulée pour visualiser le point de retournement de l'investissement.
+
+![Détail du cash-flow](screenshots/detail-cashflow-v1.jpg)
+
+Matrice ligne par ligne, année par année : loyer brut → vacance → loyer net → charges (récupérables / non récupérables) → EBITDA → amortissement → IS → flux net, jusqu'à la valeur de sortie hors droits.
