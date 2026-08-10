@@ -19,5 +19,5 @@ Limite connue
 
 Jeu de données de démonstration entièrement fictif — le modèle ne remplace pas une due diligence complète (fiscalité, garanties de passif, état locatif détaillé, etc.).
 
-🔗 Repo
-https://github.com/JulienAnceaux/office-valuation-engine
+🔗 Démo (captures d'écran statiques)
+https://github.com/JulienAnceaux/office-valuation-engine/blob/main/screenshots/dashboard-v2.jpg
