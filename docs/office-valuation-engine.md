@@ -3,6 +3,9 @@ Objectif
 
 Moteur de valorisation DCF (discounted cash-flow) pour actifs de bureaux : modélise le cash-flow d'exploitation, la vacance, la fiscalité et la valeur de sortie hors droits d'un actif, avec des hypothèses pilotables en direct plutôt que ressaisies dans un tableur à chaque scénario.
 
+Démo interactive
+[Ouvrir le rapport Power BI en direct](https://app.powerbi.com/view?r=eyJrIjoiOWQyMzU2MjYtNTQ1OS00MjkwLWJiYTQtMTRjMjFlMTNkMzI5IiwidCI6ImQwNzYyZjgyLWU0MWQtNGZjOC1iZWFjLTBmYzYxMzY4NjE5NSJ9) — tous les sliders sont pilotables en direct, aucune connexion requise. Données de démonstration entièrement fictives.
+
 Fonctionnement
 Loyer brut indexé sur l'ILAT, net d'un taux de vacance paramétrable année par année
 Charges d'exploitation scindées récupérables / non récupérables (seules les non récupérables pèsent sur le NOI)
