@@ -87,6 +87,10 @@ Automatisation de workflows immobiliers avec Claude, Python, Excel et PowerPoint
 
 Exploitation des données publiques (urbanisme, cadastre, cartographie...) pour l'analyse immobilière.
 
+🚧 Radar BODACC
+
+Veille des procédures collectives (BODACC) pour repérer les locaux commerciaux susceptibles de se libérer, avant publication sur les portails. [Détails →](./docs/bodacc-radar.md)
+
 
 ---
 
