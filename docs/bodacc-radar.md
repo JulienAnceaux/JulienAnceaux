@@ -4,14 +4,14 @@ Objectif
 Outil de veille des procédures collectives (sauvegarde, redressement, liquidation judiciaire) pour repérer les locaux commerciaux susceptibles de se libérer, avant publication sur les portails immobiliers.
 
 Fonctionnement
-Récupération quotidienne des annonces BODACC via l'API publique DILA/opendatasoft, France entière
+Recherche live par ville : le client tape le nom d'une ville, l'application interroge le BODACC en direct via l'API publique DILA/opendatasoft
 Classification automatique par type de procédure et poids d'urgence (liquidation > redressement > sauvegarde)
-Mise en avant automatique de la zone Domus (95, 78, 60) parmi les résultats nationaux
-Recherche par enseigne, activité ou ville
+Recherche par enseigne ou activité au sein des résultats
 Export CSV des résultats filtrés
+Protection par mot de passe (page de connexion + cookie de session signé)
 Stack technique
 
-React, Vite, PapaParse, script Node.js de collecte (API BODACC opendatasoft), Vercel.
+React, Vite, fonctions serverless Node.js (Vercel) pour l'authentification et l'appel à l'API BODACC, middleware Edge pour la protection par mot de passe.
 
 Limite connue
 
