@@ -18,4 +18,4 @@ Limite connue
 L'adresse publiée est celle du siège social, pas nécessairement celle du local commercial en vitrine ; un croisement complémentaire (Pappers, SIRENE) peut être nécessaire pour les enseignes multi-sites.
 
 🔗 Démo
-https://domus-bodacc-radar-jac-digital.vercel.app/
+https://bodacc-radar.vercel.app/
