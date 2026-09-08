@@ -91,6 +91,10 @@ Exploitation des données publiques (urbanisme, cadastre, cartographie...) pour 
 
 Veille des procédures collectives (BODACC) pour repérer les locaux commerciaux susceptibles de se libérer, avant publication sur les portails. [Détails →](./docs/bodacc-radar.md)
 
+🚧 Valo_V1 — Valorisation immobilière (DCF & Capitalisation)
+
+Outil d'expertise immobilière en Power BI reproduisant les méthodes DCF et capitalisation (bail en place, vacance, relocation, CAPEX, valeur de sortie), piloté par curseurs interactifs, validé au centime près contre un cas d'étude Cushman & Wakefield. [Détails →](https://github.com/JulienAnceaux/Valo_V1_Immo)
+
 
 ---
 
