@@ -45,19 +45,19 @@ Ce GitHub rassemble mes projets autour de trois domaines :
 
 🚧 Office Valuation Engine
 
-Moteur de valorisation DCF pour actifs de bureaux (Power BI / DAX) : sliders interactifs, vacance variable par année, code couleur dynamique. [Détails →](./docs/office-valuation-engine.md)
+Moteur de valorisation DCF pour actifs de bureaux (Power BI / DAX) : sliders interactifs, vacance variable par année, code couleur dynamique. [Détails →](https://github.com/JulienAnceaux/office-valuation-engine)
 
 🚧 Parcelles Tracker
 
-Prospection foncière amont : identifie les terrains nus détenus par des sociétés privées (SCI, SCCV) à partir du cadastre ouvert. [Détails →](./docs/parcelles-tracker.md)
+Prospection foncière amont : identifie les terrains nus détenus par des sociétés privées (SCI, SCCV) à partir du cadastre ouvert. [Détails →](https://github.com/JulienAnceaux/parcelles-tracker)
 
 🚧 Prospects Tracker
 
-Détecte les divisions cadastrales récentes, signal amont d'une vente à venir — validé sur un cas réel (53 prospects qualifiés). [Détails →](./docs/prospects-tracker.md)
+Détecte les divisions cadastrales récentes, signal amont d'une vente à venir — validé sur un cas réel (53 prospects qualifiés). [Détails →](https://github.com/JulienAnceaux/prospects-tracker)
 
 🚧 Prospect Pilot
 
-Recherche et enrichissement de prospects via l'API Google Places. [Détails →](./docs/prospect-pilot.md)
+Recherche et enrichissement de prospects via l'API Google Places. [Détails →](https://github.com/JulienAnceaux/prospect-pilot)
 
 🚧 Real Estate Analytics Platform
 
@@ -89,11 +89,11 @@ Exploitation des données publiques (urbanisme, cadastre, cartographie...) pour 
 
 🚧 Radar BODACC
 
-Veille des procédures collectives (BODACC) pour repérer les locaux commerciaux susceptibles de se libérer, avant publication sur les portails. [Détails →](./docs/bodacc-radar.md)
+Veille des procédures collectives (BODACC) pour repérer les locaux commerciaux susceptibles de se libérer, avant publication sur les portails. [Détails →](https://github.com/JulienAnceaux/bodacc-radar)
 
 🚧 Valo_V1 — Valorisation immobilière (DCF & Capitalisation)
 
-Outil d'expertise immobilière en Power BI reproduisant les méthodes DCF et capitalisation (bail en place, vacance, relocation, CAPEX, valeur de sortie), piloté par curseurs interactifs, validé au centime près contre un cas d'étude Cushman & Wakefield. [Détails →](https://github.com/JulienAnceaux/Valo_V1_Immo)
+Outil d'expertise immobilière en Power BI reproduisant les méthodes DCF et capitalisation (bail en place, vacance, relocation, CAPEX, valeur de sortie), piloté par curseurs interactifs, validé au centime près contre un cas d'étude vérifié. [Détails →](https://github.com/JulienAnceaux/Valo_V1_Immo)
 
 
 ---
